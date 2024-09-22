@@ -12,3 +12,4 @@ idna
 jsonschema
 multidict
 yarl
+python-dotenv
